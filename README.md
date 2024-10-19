@@ -123,6 +123,15 @@ file.close()
 
 This project is licensed under the MIT License. For details, please refer to the [LICENSE](LICENSE) file.
 
+## **Explore More**
+
+To explore more **Tender** projects and get access to additional code examples, visit the following repository:
+
+[1000+ Codes in Tender](https://github.com/IHEfty/1000-Codes-in-Tender/)
+
+This repository contains a rich collection of Tender-based code samples, ranging from simple applications to complex utilities, allowing you to enhance your understanding of **Tender** and its capabilities.
+
+
 ## Contributing
 
 Contributions to the `embedder` package are welcome! If you have suggestions for new features, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
