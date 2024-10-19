@@ -119,9 +119,9 @@ file.close()
 ```
 
 
-## License
+## Contributing
 
-This project is licensed under the MIT License. For details, please refer to the [LICENSE](LICENSE) file.
+Contributions to the `embedder` package are welcome! If you have suggestions for new features, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
 
 ## **Explore More**
 
@@ -131,7 +131,6 @@ To explore more **Tender** projects and get access to additional code examples, 
 
 This repository contains a rich collection of Tender-based code samples, ranging from simple applications to complex utilities, allowing you to enhance your understanding of **Tender** and its capabilities.
 
+## License
 
-## Contributing
-
-Contributions to the `embedder` package are welcome! If you have suggestions for new features, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
+This project is licensed under the MIT License. For details, please refer to the [LICENSE](LICENSE) file.
