@@ -105,20 +105,6 @@ file.close()
 - **Tender Language Environment**: Ensure that you are running this script in a properly configured Tender setup.
 - **Base64 Encoding**: The script relies on the `base64` module to convert files into a format that can be embedded into Tender scripts.
 
-## **File Structure**
-
-```plaintext
-/tender
-├───bin
-│   └───tender.exe
-└───pkg
-    ├───embedder.td
-    ├───ansi.td
-    ├───console.td
-    ├───<other packages>
-```
-
-
 ## Contributing
 
 Contributions to the `embedder` package are welcome! If you have suggestions for new features, improvements, or bug fixes, please feel free to open an issue or submit a pull request.
