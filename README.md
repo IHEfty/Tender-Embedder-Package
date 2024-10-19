@@ -41,7 +41,7 @@ Place the `embedder.td` file in the `pkg` directory of your Tender installation.
 │   └───tender.exe
 └───pkg
     ├───embedder.td
-    ├───<other packages>
+    └───<other packages>
 ```
 
 ## **Usage Instructions**
